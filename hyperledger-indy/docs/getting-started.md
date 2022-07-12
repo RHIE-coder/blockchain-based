@@ -6,7 +6,7 @@
 
 ## 🌈Start Setting
 
-### 🍀Python
+### 🍀Python 3.9 version
 
 <!-- ```bash
 sudo apt-get update
@@ -24,7 +24,7 @@ alias python="python3.9"
 ```
 <br><br><br><br><br>
 
-### 🍀Node.js
+### 🍀Node.js 16 version
 PPA를 통해 최신버전 가져오기(16버전) LTS
 ```
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
